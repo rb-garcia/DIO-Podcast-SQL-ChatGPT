@@ -20,7 +20,7 @@ Resultado
 Subtítulo: "Audaciosos Geeks Espaciais em Busca de Dados e Descobertas"
 
 ## Episódio de Podcast
-Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em SQL cujo o nome é "SQL Trek: A Próxima Consulta" e tem foco em SQL,  com o público alvo de iniciantes em SQL o formato do roteiro deve ser
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em SQL cujo o nome é "SQL Trek: A Próxima Consulta" e tem foco em SQL,  com o público alvo de iniciantes em SQL o formato do roteiro deve ser<br />
 [INTRODUÇÃO]<br />
 [CURIOSIDADE 1]<br />
 [CURIOSIDADE 2]<br />
@@ -32,8 +32,8 @@ Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de te
 - no bloco [CURIOSIDADE 2] sobre uma ferramenta para SQL
 - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Ricardo Garcia e esse foi o CodeQuest dessa semana'
 - use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Ricardo Garcia
-- O podcast deve ser curto
+- o podcast vai ser apresentado somente por uma pessoa, chamada Ricardo Garcia
+- o podcast deve ser curto
 
 {REGRAS NEGATIVAS}
 - Não use muitos termos técnicos
