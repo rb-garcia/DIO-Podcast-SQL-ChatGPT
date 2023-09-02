@@ -38,3 +38,21 @@ Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de te
 {REGRAS NEGATIVAS}
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
+
+# Podcast
+[INTRODUÇÃO]
+
+Ricardo Garcia: E aí, pessoal! Sejam todos bem-vindos a mais um episódio eletrizante do "SQL Trek: A Próxima Consulta"! Eu sou Ricardo Garcia e estou aqui para guiá-los por esse emocionante universo do SQL. Hoje, vamos explorar algumas curiosidades e ferramentas que vão tornar sua jornada na linguagem SQL ainda mais empolgante. Então, preparem-se, nerds do SQL, porque a próxima consulta está prestes a começar!
+
+[CURIOSIDADE 1]
+
+Ricardo Garcia: Imagine que o SQL é como a varinha mágica do Harry Potter, mas para bancos de dados! Uma curiosidade fascinante é que SQL, que significa "Structured Query Language" ou "Linguagem de Consulta Estruturada", é uma linguagem universal para gerenciar dados em bancos de dados relacionais. É como se fosse a poção mágica para acessar, atualizar e manipular informações dentro desses bancos de dados. O SQL é o "Alohomora" dos dados, permitindo que você desbloqueie o conhecimento escondido nas tabelas.
+
+[CURIOSIDADE 2]
+
+Ricardo Garcia: Agora, vamos falar sobre uma ferramenta incrível para SQL que é mais eficaz do que o sabre de luz do Jedi: o SQL Server Management Studio, ou SSMS. Essa ferramenta é uma interface gráfica desenvolvida pela Microsoft para gerenciar bancos de dados SQL Server. É como ter uma nave espacial de última geração para explorar a galáxia do SQL. Com o SSMS, você pode executar consultas, criar e modificar tabelas e até mesmo automatizar tarefas. É um verdadeiro canivete suíço para os amantes de SQL!
+
+[FINALIZAÇÃO]
+
+Ricardo Garcia: E assim chegamos ao final desta emocionante jornada pelo mundo do SQL. Espero que tenham se sentido inspirados a explorar mais sobre essa linguagem poderosa e suas incríveis ferramentas. Eu sou Ricardo Garcia e este foi mais um episódio do "SQL Trek: A Próxima Consulta". Se você gostou, não se esqueça de deixar seu like e compartilhar com seus amigos nerds do SQL. Até a próxima, pessoal!
+
