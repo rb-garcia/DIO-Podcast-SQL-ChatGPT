@@ -20,7 +20,7 @@ Resultado
 Subtítulo: "Audaciosos Geeks Espaciais em Busca de Dados e Descobertas"
 
 ## Episódio de Podcast
-Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em SQL cujo o nome é "SQL Trek: A Próxima Consulta" e tem foco em SQL,  com o público alvo de iniciantes em SQL o formato do roteiro deve ser<br />
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em SQL cujo o nome é "SQL Trek: A Próxima Consulta" e tem foco em SQL,  com o público alvo de iniciantes em SQL o formato do roteiro deve ser:<br />
 [INTRODUÇÃO]<br />
 [CURIOSIDADE 1]<br />
 [CURIOSIDADE 2]<br />
